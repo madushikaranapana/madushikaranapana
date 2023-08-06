@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madushika Ranapana</h1>
-<h3 align="center">A passionate frontend development</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/premium-vector/girl-coding-with-laptop-illustration_27976285.htm#query=coding%20cartoon&position=28&from_view=keyword&track=ais"
+<h3 align="center">A passionate Fullstack development and DevOps</h3>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=900"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushikaranapana&label=Profile%20views&color=0e75b6&style=flat" alt="madushikaranapana" /> </p>
 
