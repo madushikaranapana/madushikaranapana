@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madushika Ranapana</h1>
-<h3 align="center">A passianate in Frontend Development</h3>
+<h3 align="center">A passianate in Fullstack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushikaranapana&label=Profile%20views&color=0e75b6&style=flat" alt="madushikaranapana" /> </p>
 
