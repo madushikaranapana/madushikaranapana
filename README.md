@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madushikaranapana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madushikaranapana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madushika-ranapana-194585220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madushikaranapana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/madushikaranapana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="madushikaranapana" height="30" width="40" /></a>
-<a href="https://instagram.com/madushika_s_ranapana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madushika_s_ranapana" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/madushika_s_ranapana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madushika_s_ranapana" height="30" width="40" /></a> -->
 </p>
 
